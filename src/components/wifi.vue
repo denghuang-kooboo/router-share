@@ -19,6 +19,8 @@ export default {
   border: 30px double transparent;
   border-top-color: blue;
   border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
 }
 
 .wifi:before {

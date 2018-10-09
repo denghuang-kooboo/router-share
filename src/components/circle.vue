@@ -15,9 +15,9 @@ export default {
   width: 120px;
   height: 120px;
   background: greenyellow;
-  -moz-border-radius: 60px;
-  -webkit-border-radius: 60px;
-  border-radius: 60px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
   border-width: 2px;
   border-color: yellow;
 }
